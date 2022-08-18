@@ -1,6 +1,8 @@
 # Modelos-ML
 Autor: Perez Lopez Juan Carlos
-modelos:
+
+Modelos:
+
 1. Random Forest
 2. Regresión logística 
 3. LSTM
