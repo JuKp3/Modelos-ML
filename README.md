@@ -1,5 +1,10 @@
 # Modelos-ML
-Autor: Perez Lopez Juan Carlos
+Autor: 
+  Perez Lopez Juan Carlos
+  Zamora Tacilla Angelo Alexis
+  Aguilar Burga Piero Andre
+
+
 
 Modelos:
 
